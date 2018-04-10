@@ -1,0 +1,34 @@
+
+body {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 18px;
+}
+
+.push-down {
+  margin-top: 100px;
+}
+
+.flex-btn-row {
+  display: flex;
+  margin: 20px 0px 10px 0px;
+}
+
+.margin-left {
+  margin-left: 10px;
+}
+
+h2 {
+  margin-bottom: 40px;
+}
+
+.container {
+  max-width: 900px;
+}
+
+#label-for-ingredients {
+  margin-top: 20px;
+}
+
+.form-control {
+    font-weight: 800;
+}
