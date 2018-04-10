@@ -73,11 +73,9 @@ class App extends Component {
       localStorage.setItem('recipeList', JSON.stringify(recipes));
       this.setState({recipes: recipes});
     }
-
-
+    
 
   render() {
-  
 
     return (
       <div>

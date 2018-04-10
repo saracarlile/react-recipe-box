@@ -18,9 +18,6 @@ User Story: All new recipes I add are saved in my browser's local storage. If I 
 
 
 
-
-
-
 ## View Project
 [View live demo of React Recipe Box](https://saracarlile.github.io/react-recipe-box/)
 
