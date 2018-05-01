@@ -57,6 +57,9 @@ class RecipeList extends React.Component {
     }
 
     saveInfo() {
+        if(this.state.currentRecipe.content == '' || this.state.currentRecipe.title == ''){
+            return;
+        }
         this.props.handleSave(this.state.currentRecipe);  //communicates with top-level App.js parent
     }
 
